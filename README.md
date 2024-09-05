@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java, Python**
 
-- 📫 How to reach me **aniketprakashmgs@gmail.com**
+- 📫 How to reach me **aniketprakashkvs@gmail.com**
 
 - ⚡ Fun fact **I'm funny and problem solver.**
 
